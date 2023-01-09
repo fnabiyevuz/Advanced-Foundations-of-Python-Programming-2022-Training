@@ -1,0 +1,15 @@
+2023-01-09 22:57:56,712 This is a Harmless debug message
+2023-01-09 22:57:56,712 Information message
+2023-01-09 22:57:56,712 A warning message
+2023-01-09 22:57:56,712 This is an error message
+2023-01-09 22:57:56,712 No Internet, Internet is down now
+2023-01-09 22:57:56,712 Exception occurred
+Traceback (most recent call last):
+  File "/media/fn/d/projects/self-study/Advanced Foundations of Python Programming | 2022 Training/Module 9 : Logging/logger.py", line 25, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
+2023-01-09 22:57:56,712 Exception occurred
+Traceback (most recent call last):
+  File "/media/fn/d/projects/self-study/Advanced Foundations of Python Programming | 2022 Training/Module 9 : Logging/logger.py", line 32, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
